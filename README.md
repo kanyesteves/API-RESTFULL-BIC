@@ -1,9 +1,9 @@
 # Projeto SpringBoot 3
 Este é um projeto básico em SpringBoot 3 que utiliza as seguintes dependências:
 
-[Maven:](https://maven.apache.org/) - Ferramenta de gerenciamento de dependências e build.
-[MySQL:](https://www.mysql.com/) - Banco de dados relacional.
-[Spring Web:](https://spring.io/projects/spring-ws) - Framework para desenvolvimento web.
+[Maven:](https://maven.apache.org/) - Ferramenta de gerenciamento de dependências e build. <br>
+[MySQL:](https://www.mysql.com/) - Banco de dados relacional. <br>
+[Spring Web:](https://spring.io/projects/spring-ws) - Framework para desenvolvimento web. <br>
 [Spring Data JPA:](https://spring.io/projects/spring-data-jpa) - Implementação do JPA (Java Persistence API) para persistência de dados.
 
 ## Requisitos
