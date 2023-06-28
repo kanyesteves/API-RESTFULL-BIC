@@ -43,5 +43,15 @@ O aplicativo será iniciado e estará disponível no seguinte endereço: [http:/
 ## Utilização
 Você pode usar ferramentas como o Postman para testar as APIs disponíveis neste projeto.
 
+## EndPoints:
+Seguindo os níveis de padrões de requisitos para uma API-RESTfull
+<ul>
+  <li>http://localhost:8080/save</li>
+  <li>http://localhost:8080/getall</li>
+  <li>http://localhost:8080/get/{id}</li>
+  <li>http://localhost:8080/update/{id}</li>
+  <li>http://localhost:8080/delete/{id}</li>
+</ul>
+
 ## Contribuição
 Se você quiser contribuir com este projeto, fique à vontade para abrir um issue ou enviar um pull request.
